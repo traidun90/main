@@ -1,7 +1,7 @@
 # main
 
 1. veeu бот (запуск бота launch-veeu.php)
-
+ascsc
 .1 cd /sdcard/Download <br>
 .2 git clone https://github.com/traidun90/main <br>
 .3 cd /sdcard/Download/main <br>
