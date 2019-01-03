@@ -2,8 +2,8 @@
 
 1. veeu бот (запуск бота launch-veeu.php) <br>
 
-Запуск бота в Termux
-_1
+Запуск бота в Termux<br>
+_1<br>
 
 Запуск бота на ПК (windows)
 _1 cd /sdcard/Download <br>
