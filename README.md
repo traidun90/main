@@ -1,6 +1,6 @@
 # main
 
-1. veeu бот (запуск бота launch-veeu.php) <br><br>
+1. veeu бот (запуск бота launch-veeu.php) <br>
 
 ..1 cd /sdcard/Download <br>
 ..2 git clone https://github.com/traidun90/main <br>
