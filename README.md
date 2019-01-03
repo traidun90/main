@@ -1,6 +1,6 @@
 # main
 
-1. бот veeu (запуск бота launch-veeu.php)
+1. veeu бот (запуск бота launch-veeu.php)
 
 2. watch бот (ожидается)
 
