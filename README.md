@@ -2,6 +2,10 @@
 
 1. veeu бот (запуск бота launch-veeu.php) <br>
 
+Запуск бота в Termux
+_1
+
+Запуск бота на ПК (windows)
 _1 cd /sdcard/Download <br>
 _2 git clone https://github.com/traidun90/main <br>
 _3 cd /sdcard/Download/main <br>
