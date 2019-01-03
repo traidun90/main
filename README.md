@@ -5,7 +5,7 @@
 Запуск бота в Termux<br>
 _1<br>
 
-Запуск бота на ПК (windows)
+Запуск бота на ПК (windows)<br>
 _1 cd /sdcard/Download <br>
 _2 git clone https://github.com/traidun90/main <br>
 _3 cd /sdcard/Download/main <br>
