@@ -1,6 +1,6 @@
 # main
 
-1. veeu бот (запуск бота launch-veeu.php) <br>
+1. veeu бот <br>
 
 -- запуск бота в Termux <br>
 _1 cd /sdcard/Download <br>
