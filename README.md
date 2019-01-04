@@ -2,7 +2,7 @@
 
 1. veeu бот <br>
 
---  запуск бота в Termux <br>
+-- запуск бота в Termux <br>
 _1 cd /sdcard/Download <br>
 _2 git clone https://github.com/traidun90/main <br>
 _3 cd /sdcard/Download/main <br>
